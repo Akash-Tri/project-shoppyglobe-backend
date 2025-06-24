@@ -5,7 +5,7 @@ Backend API for an e-commerce application built with **Node.js**, **Express**, a
 ---
 
 ## 🔗 Live GitHub Repo
-[GitHub Repo] - ( https://github.com/Akash-Tri/shoppyglobe-backend.git )
+[GitHub Repo] - ( https://github.com/Akash-Tri/project-shoppyglobe-backend )
  
 ---
 
@@ -20,7 +20,7 @@ Backend API for an e-commerce application built with **Node.js**, **Express**, a
 ⚙️ Run Locally
 
 
-git clone https://github.com/Akash-Tri/shoppyglobe-backend.git
+git clone https://github.com/Akash-Tri/project-shoppyglobe-backend
 cd shoppyglobe-backend
 npm install
 cp .env.example .env  # Add your Mongo URI and JWT_SECRET
